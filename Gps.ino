@@ -114,7 +114,7 @@ void ProcGPSData () {
     GPS_sync  = false;
 #ifdef DEBUG_X_ON
     Serial.println("Invalid GPS Data");
-    delay(1000);
+    delay(500);
 #endif
   }
 }
