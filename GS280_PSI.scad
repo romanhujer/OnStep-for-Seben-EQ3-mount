@@ -22,6 +22,12 @@
 
 use <threads.scad>
 
+// 1 Edge HD 3.25" Cap  (Optec Lepus  0.62x  or T2) 
+// 2 SCT  2"     Cap 
+// 3 M48 x 0.75  Cap
+// 4 M42 x 0.75  Cap
+
+
 
   difference() {
     union()  {
